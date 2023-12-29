@@ -8,7 +8,7 @@ This project was to create an ordered list by writing to the document using Java
 
 ### Hands-On Project 2
 
-This page converts Farenheit to Celsius and back. It uses a named function to do the calculation, and it uses an anonymous function on a change to the input.
+This page converts Fahrenheit to Celsius and back. It uses a named function to do the calculation, and it uses an anonymous function on a change to the input.
 
 ### Hands-On Project 3
 
@@ -16,7 +16,7 @@ This page uses a list with items that can be checked or unchecked, and it uses a
 
 ### Hands-On Project 4
 
-This page uses a function to calculate the total moving cost determined by the weight of items being moved and the distance being moved. It also uses a try and catch statement to make sure the inputs are accepted values and displaying an error when the values are unacceptable.
+This page uses a function to calculate the total moving cost determined by the weight of items being moved and the distance being moved. It also uses a try-and-catch statement to make sure the inputs are accepted values and displays an error when the values are unacceptable.
 
 ### Hands-On Project 5
 
@@ -28,4 +28,4 @@ This page prompts a user to create a username and password which is later displa
 
 ### Hands-On Project 7
 
-This is just another page similar to Project 6, in order to practice using more regular expressions.
+This is just another page similar to Project 6, to practice using more regular expressions.
